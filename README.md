@@ -174,7 +174,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
+This project is licensed over the Apache 2 License - see the [LICENSE](LICENSE) file for details
 
 [`gnark` Issues]: https://github.com/consensys/gnark/issues
 [`gnark` Playground]: https://play.gnark.io
